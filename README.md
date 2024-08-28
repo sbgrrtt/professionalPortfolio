@@ -1,0 +1,1 @@
+The purpose of this project is to present technical writing samples of work I have completed through either my Master of Statistics and Operations Research at RMIT or through adjacent projects that I have worked on in my own time at my own direction.
